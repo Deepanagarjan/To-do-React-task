@@ -1,6 +1,6 @@
 # To-Do Application
 
-![Project Preview](./src/assets/Screenshot.png)
+![Project Preview](./src/screenshot.png)
 
 A simple To-Do application built using React, where you can manage your tasks and keep track of their completion status.
 ## Features
